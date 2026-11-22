@@ -1,6 +1,6 @@
 # Userscript para TW
 
-Agenda ataques, apoios, nobres e fakes com precisão de milissegundos, e automatiza recursos, academia, saque, coleta, treino de paladino, modo de férias e mais. Tudo pelo painel que abre dentro do jogo.
+Agenda ataques, apoios, nobres e fakes com precisão de milissegundos, e automatiza recursos, academia, saque, coleta, treino de paladino, modo de férias, melhorias de mapa. Tudo pelo painel que abre dentro do jogo.
 
 > **Projeto independente, gratuito e sem fins lucrativos**, sem qualquer ligação, parceria ou aprovação da desenvolvedora do jogo. Leia o [Aviso legal](#aviso-legal) antes de usar.
 
